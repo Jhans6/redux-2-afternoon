@@ -1,5 +1,5 @@
 module.exports = {
-  firstName: 'Peter',
-  lastName: 'Quill',
-  email: 'peterquill@gmail.com'
-}
+	firstName: "Joshua",
+	lastName: "Hansen",
+	email: "hansenjoshua908@gmail.com",
+};
